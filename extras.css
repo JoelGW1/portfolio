@@ -1,0 +1,23 @@
+html, body {
+    background-color: #1e1e1e;
+    margin: 0%;
+}
+
+.flex {
+    display: flex;
+}
+
+.heading {
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-left: 40px;
+}
+
+.text {
+    font-size: 30px;
+    font-family: monospace;
+    margin-left: 40px;
+    color: white;
+}
+
