@@ -75,7 +75,7 @@ function fadeOut2project_A() {
             clearInterval(handle);
             clearInterval(charHandle);
             setChar(String.fromCharCode(160));
-            window.location.href = "project_A.html";
+            window.location.href = "https://joelgw1.github.io/Perspective/";
         }
         for (let i = 0; i < text.length; i++){
             n = Math.trunc(Math.random() * text[i].innerText.length)
